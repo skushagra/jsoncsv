@@ -1,0 +1,14 @@
+{
+    "emp_details": [
+        {
+            "emp_name": "Kushagra",
+            "emp_email": "kushagra.rigel@gmail.com",
+            "job_profile": "Freelancer"
+        },
+        {
+            "emp_name": "Brijanya",
+            "emp_email": "sharmabrijanya@gmail.com",
+            "job_profile": "None"
+        }
+    ]
+}

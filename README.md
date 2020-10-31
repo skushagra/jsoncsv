@@ -5,8 +5,8 @@ The Content of the json file decides what needs to be changed in the code in ord
 
 ## Contact
 
-You can view this repository on github by visiting :- [View On GitHub](www.github.com/skushagra/json/csv)
-Contact Information :- [KushagraS](www.github.com/skushagra/)
+You can view this repository on github by visiting :- [View On GitHub](www.github.com/skushagra/jsoncsv)
+Contact Information :- [KushagraS](www.github.com/skushagra)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

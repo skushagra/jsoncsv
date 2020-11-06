@@ -1,67 +1,66 @@
      [
         {
             "emp_name": "Kushagra",
-            "emp_email": "kushagra.rigel@gmail.com",
-            "job_profile": "Freelancer"
+            "emp_email": "k*******.*****l@gmail.com",
         },
         {
             "emp_name": "Brijanya",
-            "emp_email": "sharmabrijanya@gmail.com",
+            "emp_email": "s*****b***@gmail.com",
             "job_profile": "None"
         },
         {
             "emp_name": "Ram",
-            "emp_email": "Ram.rigel@gmail.com",
+            "emp_email": "Ram@gmail.com",
             "job_profile": "Freelancer"
         },
         {
             "emp_name": "Shayam",
-            "emp_email": "Shayam.rigel@gmail.com",
+            "emp_email": "Shayam@gmail.com",
             "job_profile": "Freelancer"
         },
         {
             "emp_name": "Raghu",
-            "emp_email": "Raghu.rigel@gmail.com",
+            "emp_email": "Raghu@gmail.com",
             "job_profile": "Freelancer"
         },
         {
             "emp_name": "Sonu",
-            "emp_email": "Sonu.rigel@gmail.com",
+            "emp_email": "Sonu@gmail.com",
             "job_profile": "Freelancer"
         },
         {
             "emp_name": "Monu",
-            "emp_email": "Monu.rigel@gmail.com",
+            "emp_email": "Monu@gmail.com",
             "job_profile": "Freelancer"
         },
         {
             "emp_name": "Babloo",
-            "emp_email": "Babloo.rigel@gmail.com",
+            "emp_email": "Babloo@gmail.com",
             "job_profile": "Freelancer"
         },
         {
             "emp_name": "Riya",
-            "emp_email": "Riya.rigel@gmail.com",
+            "emp_email": "riya@gmail.com",
             "job_profile": "Freelancer"
         },
         {
             "emp_name": "Jhon",
-            "emp_email": "Jhon.rigel@gmail.com",
+            "emp_email": "Jhon@gmail.com",
             "job_profile": "Freelancer"
         },
         {
             "emp_name": "Mike",
-            "emp_email": "Mike.rigel@gmail.com",
+            "emp_email": "Mike@gmail.com",
             "job_profile": "Freelancer"
         },
         {
             "emp_name": "Alen",
-            "emp_email": "Alen.rigel@gmail.com",
+            "emp_email": "Alen@gmail.com",
             "job_profile": "Freelancer"
         },
         {
             "emp_name": "Justine",
-            "emp_email": "justine.rigel@gmail.com",
+            "emp_email": "justine@gmail.com",
             "job_profile": "Freelancer"
         }
     ]
